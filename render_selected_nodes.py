@@ -1,9 +1,14 @@
 """
-Render Selected Nodes
+Script Name: Render Selected Nodes
+Written by: Kieran Hanrahan
 
-URL:
+Script Version: 1.0.0
+Flame Version: 2025
 
-    http://github.com/khanrahan/render-selected-nodes
+URL: http://github.com/khanrahan/render-selected-nodes
+
+Creation Date: 02.05.24
+Update Date: 03.11.25
 
 Description:
 
