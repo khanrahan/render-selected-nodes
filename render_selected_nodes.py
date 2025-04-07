@@ -2,7 +2,7 @@
 Script Name: Render Selected Nodes
 Written by: Kieran Hanrahan
 
-Script Version: 1.0.0
+Script Version: 1.0.1
 Flame Version: 2025
 
 URL: http://github.com/khanrahan/render-selected-nodes
@@ -33,7 +33,7 @@ To Install:
 import flame
 
 TITLE = 'Render Selected Nodes'
-VERSION_INFO = (1, 0, 0)
+VERSION_INFO = (1, 0, 1)
 VERSION = '.'.join([str(num) for num in VERSION_INFO])
 TITLE_VERSION = f'{TITLE} v{VERSION}'
 MESSAGE_PREFIX = '[PYTHON]'
